@@ -53,9 +53,9 @@ Use Content-Based logic to find movies with similar genres, ensuring the system 
 **Clone the repository:**
 
 ```
-git clone https://github.com/rahul2k57/financial-fraud-detection-system.git
+git clone https://github.com/rahul2k57/recommendation-systems.git
 ```
-cd financial-fraud-detection-system
+cd recommendation-systems
 
 **Install dependencies:**
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ```
 **Download the Dataset:**
 
-Download the dataset from [Kaggle](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection) and and place it in the project's root directory.
+Download the dataset from [GroupLens](https://grouplens.org/datasets/movielens/1m/) and and place it in the project's root directory.
 
 Launch the Streamlit App:
 
